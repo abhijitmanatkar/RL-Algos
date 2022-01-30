@@ -1,6 +1,6 @@
 ## RL Algorithms
 
-Implementations agents based on the following RL Algorithms:
+Implementations of agents based on the following RL Algorithms:
 
 - Value Iteration
 - Policy Iteration
